@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveed Ali</h1>
-<h3 align="center">"I am a JavaScript developer and am passionate about using this powerful language to create innovative web solutions. I am constantly learning and improving my skills, and enjoy solving problems and building projects with JavaScript. And let's be real, who doesn't love debugging code? It's like a treasure hunt, except instead of searching for buried gold, you're trying to find a missing parenthesis or figure out why your code is behaving unexpectedly. Haha, just kidding, it's super fun and rewarding (most of the time)."</h3>
+<h3 align="center">"I am a JavaScript developer and am passionate about using this powerful language to create innovative web solutions. I am constantly learning and improving my skills, and enjoy solving problems and building projects with JavaScript. And let's be real, who doesn't love debugging code? It's like a treasure hunt, except instead of searching for buried gold, you're trying to find a missing parenthesis or figure out why your code is behaving unexpectedly. just kidding, it's super fun and rewarding (most of the time)."</h3>
 
-- 🌱 I’m currently learning **Javascript.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
