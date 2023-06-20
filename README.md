@@ -1,12 +1,9 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Naveed Ali Rehmani</h2>
-<h4 align="center">A passionate developer and a Geek.</h4>
 
+ I am currently in the process of learning **DevOps**, **blockchain development on Solidity**, and **software engineering at KIU**.
 
-- 🌱 I am currently in the process of learning **DevOps**, **blockchain development on Solidity**, and **software engineering at KIU**.
+### 🛠️ Tried hands on
 
-## 🛠️ Tried hands on
-
-### 👨‍💻 Programming and markup languages
+#### 👨‍💻 Programming and markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="24"></a>
@@ -21,7 +18,7 @@
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height="24"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+#### 🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="24"></a>
@@ -34,7 +31,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" height="24"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+#### 🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24"></a>
@@ -46,7 +43,7 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="24"></a>
 </p>
 
-### 💻 Software and tools
+#### 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white" height="24"></a>
