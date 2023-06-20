@@ -2,7 +2,7 @@
 <h4 align="center">A passionate developer and a Geek.</h4>
 
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I am currently in the process of learning **DevOps**, **blockchain development on Solidity**, and **software engineering at KIU**.
 
 ## 🛠️ Tried hands on
 
